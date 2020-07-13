@@ -32,6 +32,9 @@ h1, h2, h3, h4, h5, h6, p {
 .flex-column {
     flex-direction: column;
 }
+.text-center {
+    text-align: center;
+}
 
 .maintenance .hero,
 .maintenance .information {
@@ -46,7 +49,7 @@ h1, h2, h3, h4, h5, h6, p {
     background-color: var(--purple);
 }
 .maintenance .hero img {
-    height: 250px;
+    height: 15rem;
 }
 
 .maintenance .information .social-media a {
